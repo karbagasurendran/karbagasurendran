@@ -2,6 +2,14 @@
 <h3 align="center">A passionate ionic app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karbagasurendran&label=Profile%20views&color=0e75b6&style=flat" alt="karbagasurendran" /> </p>
+
+- 🌱 I’m currently learning **ionic, angular, capacitor, cordova, express, nodejs, socket.io, mongoose & mongodb**
+
+- 💬 Ask me about **ionic**
+
+- 📫 How to reach me **karbagasurendran@gmail.com**
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
